@@ -1,0 +1,6 @@
+[core]
+    remote = selectel
+['remote "selectel"']
+    url = s3://dvc
+    endpointurl = https://s3.storage.selcloud.ru
+    region = ru-1
